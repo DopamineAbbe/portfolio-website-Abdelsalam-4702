@@ -1,0 +1,13 @@
+Client-side vs Server-side:
+Client-side is code that runs on the user's browser (HTML, CSS, JavaScript).
+Server-side runs on a server and handles data, databases, and logic.
+
+Role of HTML, CSS, JS:
+HTML = structure of the website
+CSS = design and layout
+JavaScript = interactivity
+
+Folder structure:
+images = stores pictures
+css = stores styles
+docs = stores text documents
